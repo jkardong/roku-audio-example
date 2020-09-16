@@ -1,0 +1,27 @@
+<?xml version = "1.0" encoding = "utf-8" ?> 
+
+<!--********** Copyright 2016 Roku Corp.  All Rights Reserved. **********-->
+
+<component name = "AudioListExample" extends = "Scene" >
+
+  <children>
+
+    <Group >
+
+      <LabelList 
+        id = "AllTracksList" 
+        translation = "[ 180, 100 ]" 
+        itemSize = "[ 350, 60 ]" />
+
+      <Poster 
+        uri = "pkg:/images/audio_hd.jpg" 
+        translation = "[ 600, 100 ]" 
+        width = "494" 
+        height = "574" />
+
+    </Group>
+
+  </children>
+  <!-- main handler -->
+  <script type="text/brightscript" uri="pkg:/components/audiolistscene.brs"/>
+</component>

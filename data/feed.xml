@@ -1,0 +1,16 @@
+<Content>
+<item title="Main Menu" streamformat="mp3" url="http://www.sdktestinglab.com/Tutorial/sounds/mainmenu.mp3"/>
+<item title="Renderable Nodes" streamformat="mp3" url="http://www.sdktestinglab.com/Tutorial/sounds/renderables.mp3"/>
+<item title="Z-Order/Parent-Child" streamformat="mp3" url="http://www.sdktestinglab.com/Tutorial/sounds/sgorder.mp3"/>
+<item title="Animations" streamformat="mp3" url="http://www.sdktestinglab.com/Tutorial/sounds/animations.mp3"/>
+<item title="Events and Observers" streamformat="mp3" url="http://www.sdktestinglab.com/Tutorial/sounds/eventsobservers.mp3"/>
+<item title="Typography" streamformat="mp3" url="http://www.sdktestinglab.com/Tutorial/sounds/typography.mp3"/>
+<item title="Control Nodes" streamformat="mp3" url="http://www.sdktestinglab.com/Tutorial/sounds/control.mp3"/>
+<item title="Lists and Grids" streamformat="mp3" url="http://www.sdktestinglab.com/Tutorial/sounds/listsgrids.mp3"/>
+<item title="Dialogs" streamformat="mp3" url="http://www.sdktestinglab.com/Tutorial/sounds/dialogs.mp3"/>
+<item title="Widgets" streamformat="mp3" url="http://www.sdktestinglab.com/Tutorial/sounds/widgets.mp3"/>
+<item title="Layout/Groups" streamformat="mp3" url="http://www.sdktestinglab.com/Tutorial/sounds/layoutgroups.mp3"/>
+<item title="Sliding Panels" streamformat="mp3" url="http://www.sdktestinglab.com/Tutorial/sounds/panels.mp3"/>
+<item title="Media Playback" streamformat="mp3" url="http://www.sdktestinglab.com/Tutorial/sounds/media.mp3"/>
+<item title="Audio Node" streamformat="mp3" url="http://www.sdktestinglab.com/Tutorial/sounds/audionode.mp3"/>
+</Content>
